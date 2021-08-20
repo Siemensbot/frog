@@ -105,9 +105,9 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 webpmux -version
 ```
 
-## Donate
-- [Saweria](https://saweria.co/aqulzz)
-- [Trakteer](https://trakteer.id/aqulzz)
+
+
+
 
 # Features
 - Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
