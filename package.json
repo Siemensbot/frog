@@ -1,7 +1,7 @@
 {
-  "name": "XinzBot",
+  "name": "SiemensBot",
   "version": "1.0.0",
-  "description": "Ga ada",
+  "description": "Siemensbot bot hasil ngerongsok",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/Siemensbot/frog"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/Siemensbot/frog/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/Siemensbot/frog#readme"
 }
